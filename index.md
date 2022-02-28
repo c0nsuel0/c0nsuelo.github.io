@@ -1,5 +1,5 @@
-# c0nsuelo0's art gallery
-Here I will be showing off some art I've drawn as a sort of art gallery
+# c0nsuel0's art gallery
+Here I will be showing some art I've drawn as a sort of art gallery
 
 
 ### Drawing of an original character of mine named Sandra
