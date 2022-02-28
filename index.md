@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# c0nsuelo0's art gallery
+Here I will be showing off some art I've drawn as a sort of art gallery
 
-You can use the [editor on GitHub](https://github.com/c0nsuel0/c0nsuelo.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Drawing of an original character of mine named Sandra
+![Untitled2039_20220226201255 1](https://user-images.githubusercontent.com/99862219/155842814-e6eb6a9b-e43c-496a-9cd5-b697f7357e28.png)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Drawing of another orignal character of mine named Morgan
+![Untitled2034_20220226204206 1](https://user-images.githubusercontent.com/99862219/155843750-a7c38edd-32e4-4973-9722-aac6b7260c4c.png)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/c0nsuel0/c0nsuelo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Drawing of Star from the cartoon show SVTFOE
+![Untitled2040 1](https://user-images.githubusercontent.com/99862219/155843939-b0e1f4b2-aadb-474a-80db-c3e631dbf57f.png)
